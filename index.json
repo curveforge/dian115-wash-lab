@@ -81,6 +81,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "0.4.0",
+      "author": "职业法师刘海柱",
+      "description": "盘点剧集逐集画质差异，用探索发现搜索资源、解锁并转存到整理目录，洗版后复验媒体信息是否统一。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "0.4.0：找资源（探索发现按季搜索+按规格打分）、解锁并转存到「资源」目录、洗版后复验逐集变化。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-0.4.0.dian115p",
+      "sha256": "197d99dfe807d8cb990d164f1b782d6acc887d8828e71774f26f9d51b815435e",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

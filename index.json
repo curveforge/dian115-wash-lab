@@ -1,0 +1,9 @@
+{
+  "schema_version": 3,
+  "repository": {
+    "id": "wash-lab",
+    "name": "洗版工坊 · 自建源",
+    "homepage": "https://github.com/curveforge/dian115-wash-lab"
+  },
+  "plugins": []
+}

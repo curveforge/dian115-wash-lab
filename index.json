@@ -575,6 +575,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.1.3",
+      "author": "职业法师刘海柱",
+      "description": "扫描 Emby 全库画质差异；点洗版自动找源、解锁转存给 Dian115 整理，洗完复验媒体信息。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "扫描完成后直接用任务结果渲染剧集列表，不再等待二次读取。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.1.3.dian115p",
+      "sha256": "a391ac0e47c4d7e3cee13280b72d2441e308d8079f58ce50e211fa0fdef6cdd3",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

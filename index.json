@@ -24,6 +24,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "0.2.0",
+      "author": "职业法师刘海柱",
+      "description": "盘点剧集逐集画质差异，按目标规格寻找资源、解锁并转存，洗版后复验媒体信息是否统一。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "P0 逐集盘点：读取 Emby 全库逐集分辨率/编码/音轨/字幕，按剧归并画质档，列出跨档剧集与待换集号；页面支持手机单列。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-0.2.0.dian115p",
+      "sha256": "18ebf55ac3942ff3b2eaf67d49e479d413ecc76f303cd370c67f390a0123a9c8",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

@@ -309,6 +309,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "0.9.1",
+      "author": "职业法师刘海柱",
+      "description": "挑出剧集逐集画质差异，用探索发现搜索资源、解锁并转存给 Dian115 整理，洗版后重新统计媒体信息。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "自动计划优化：跳过待换不足 3 集的季、执行时限制单项体积（默认 300GB）、跳过项单独列出。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-0.9.1.dian115p",
+      "sha256": "8aa214478a4e71cb00d235bea185625c45e05c3cc640381e0f88e13426339b8c",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

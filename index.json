@@ -328,6 +328,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "0.9.2",
+      "author": "职业法师刘海柱",
+      "description": "挑出剧集逐集画质差异，用探索发现搜索资源、解锁并转存给 Dian115 整理，洗版后重新统计媒体信息。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "修正偏档识别：以整部剧的多数档为基准（整季偏档也能识别），乡村爱情 S08-S10 这类会被正确纳入。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-0.9.2.dian115p",
+      "sha256": "28b95ad3a32c6af9d0e5cdad80ff970be7b190bd1ac1d053fafe17ba4e797d7f",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

@@ -5,5 +5,25 @@
     "name": "洗版工坊 · 自建源",
     "homepage": "https://github.com/curveforge/dian115-wash-lab"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "0.1.0",
+      "author": "职业法师刘海柱",
+      "description": "盘点剧集逐集画质差异，按目标规格寻找资源、解锁并转存，洗版后复验媒体信息是否统一。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "首个可安装版本：读取 Emby 实例/媒体库/剧集数，页面自适应桌面与手机。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-0.1.0.dian115p",
+      "sha256": "a17ac42e000969be2b439c37f2b86efdc3167105958106dccf5a5a371cc52b3b",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
+    }
+  ]
 }

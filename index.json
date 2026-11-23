@@ -917,6 +917,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.8.8",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "界面整体重做：卡片式列表与阴影层次、KPI 彩色标识、目标规格改为 chip 展示、详情页概览（集数/待对齐/季数）、差异项彩色标签、方块热力格与图例、空态与按钮动效，全适配浅色/深色主题与手机。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.8.8.dian115p",
+      "sha256": "e9d864e04d99c23475065ce2aa928a47dc710ad0d0811d24047a4566fc0f03dc",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

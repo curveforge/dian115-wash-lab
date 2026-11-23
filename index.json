@@ -955,6 +955,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.9.0",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "UI 改为 iOS 原生分组风格：系统灰底、白色分组卡片、内缩分隔线、剧集首字彩色图标 + chevron；详情页大标题 + 三数概览 + 独立分组；顶栏沿用 A/C 的胶囊按钮（扫描/洗版/设置，洗版主色实心）。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.9.0.dian115p",
+      "sha256": "f6ee03158f288146ff5668a87a4daee8c6fae56470a44e3aa8c4dfa8ecf994e5",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

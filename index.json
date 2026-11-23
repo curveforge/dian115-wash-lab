@@ -879,6 +879,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.8.6",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "恢复逐集方块视图（每季默认展开）与列表档位色条；逐集数据瘦身（入库只存差异文案，detail 从 4MB+ 降到 1.2MB，详情页不再卡死）；页面渲染异常会显示错误而不是白屏。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.8.6.dian115p",
+      "sha256": "9008250b5f15d998b8dd9147d77240ea73f179a663127c06b70070d77fc5b0ce",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

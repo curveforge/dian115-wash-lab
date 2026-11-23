@@ -1031,6 +1031,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.10.1",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "洗版规格改为自动：详情页不再要求逐剧设置，编码/分辨率/音轨等始终跟随该季多数规格；「必须中字」移到设置页做全局开关；去掉单集体积上限（网盘文件无需磁盘保护）。顺带修正 min_minority 默认值 3→1。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.10.1.dian115p",
+      "sha256": "f1d1c72374478ae093cdce47c6f3192d5e75d678aa298aa535b77ed4ff4bebdf",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

@@ -860,6 +860,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.8.4",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "按季对齐该季多数规格（7 维指纹），逐集列出差异项；找源按与目标的一致度排序；**执行只转存与目标完全一致的候选，差项候选仅预览**；盘点改为逐剧 /Shows/Episodes。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.8.4.dian115p",
+      "sha256": "bee4809315dfda04fd2241052229d8b465d105c0c81782a87a014172562e4b24",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

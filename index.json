@@ -936,6 +936,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.8.9",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "自动计划卡片：目标规格改为 chip 分行完整显示（不再截断）；右侧大分数换成「一致 N/N」徽章（绿=全中/橙=有差异），原评分降为小标签。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.8.9.dian115p",
+      "sha256": "47ced428d7f7d0bca027ae2e08a84daf16dab304d47a0c95cad8b7dffe3f056e",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

@@ -1012,6 +1012,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.10.0",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "按官方插件 API 3.13 手机契约适配：新增手机主菜单入口（ctx.navigation.openSidebar，旧宿主自动隐藏）；触控按钮 ≥44×44、触屏输入 16px 字号；窄屏顶栏可换行；去掉插件自己叠加的底部安全区内边距。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.10.0.dian115p",
+      "sha256": "3543f8e7cdd7d01e11bb186254b4c2db90aac7e85b30c07f642bf59f73bfe6a5",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

@@ -1069,6 +1069,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.10.3",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "修「上次洗版报告」看过一次还会再出现：只认最新一条成功的自动洗版记录，不再往回翻更早的历史 run；并改为先读完已看记录再判断横幅（消除加载竞态）。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.10.3.dian115p",
+      "sha256": "61466a57879ac03fd85db1d3b1f0463a1c7404a53c9a8aab643b12e7f27c3d2b",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

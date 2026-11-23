@@ -1050,6 +1050,25 @@
         "115",
         "画质"
       ]
+    },
+    {
+      "id": "washlab.media-diff",
+      "name": "洗版工坊",
+      "version": "1.10.2",
+      "author": "职业法师刘海柱",
+      "description": "按季识别多数规格（分辨率/片源/编码/音频/HDR/位深/帧率），把不一致的集洗成与主流一致；洗完复验。",
+      "homepage": "https://github.com/curveforge/dian115-wash-lab",
+      "repository_url": "https://github.com/curveforge/dian115-wash-lab",
+      "changelog": "字幕纳入「少数服从多数」：新增第 8 个判定维度（按真实流的中文字幕有无，逐季取多数），去掉所有手选开关——中字偏好与体积上限都不再需要；设置页只保留规则说明。",
+      "source_url": "https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/packages/wash-lab-1.10.2.dian115p",
+      "sha256": "4df72378141b3b7795e07390f06ea0b87fa7ec7347541974fc8c959f86166900",
+      "delivery": "protected-v4",
+      "keywords": [
+        "洗版",
+        "媒体库",
+        "115",
+        "画质"
+      ]
     }
   ]
 }

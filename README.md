@@ -22,6 +22,10 @@ https://raw.githubusercontent.com/curveforge/dian115-wash-lab/main/index.json
 
 列表里出现「洗版工坊」后点安装。以后有新版本，同一张卡片点更新即可，插件数据与权限保留。
 
+手机不方便抄地址时，扫码打开后复制链接：
+
+<img src="docs/qr-market-source.png" width="200" alt="插件源地址二维码">
+
 ### 方式二：本地安装包
 
 从 [`packages/`](packages/) 下最新 `.dian115p`，在插件中心用「从本地文件安装」导入。
